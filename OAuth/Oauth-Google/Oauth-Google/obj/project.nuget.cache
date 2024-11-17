@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FXZDOj8g7MSml/f+U+QAp/U25f43jBVyjZz1MXL5UnVwlmf4zqrWUuDUu8VlFXQKHJSU7enwpjdB6DfjfDS8uQ==",
+  "success": true,
+  "projectFilePath": "C:\\Jayanth\\AI_ML\\Identity\\OAuth\\Oauth-Google\\Oauth-Google\\Oauth-Google.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jayanth\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\5.0.17\\microsoft.aspnetcore.authentication.google.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
